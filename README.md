@@ -4,7 +4,7 @@
 Advertisers often face GTM/GA4 issues. This sandbox shows how to reproduce common tag errors and debug them.
 
 ## Demo
-🎥 90s Loom: loom.com/share/c108b575746e46b5a8366e5e09873afe  
+🎥 90s Loom: https://www.loom.com/share/c108b575746e46b5a8366e5e09873afe  
 
 ## How to run
 1. Open 'demo-site/index.html` in browser.
