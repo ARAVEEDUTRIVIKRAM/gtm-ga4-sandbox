@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Debug Tool</title>
+</head>
+<body>
+  <h1>Debugging DataLayer Events</h1>
+  <p>Open console → trigger events on demo-site → see output.</p>
+  <script>
+    setInterval(() => {
+      console.log("Current dataLayer:", window.opener ? window.opener.dataLayer : "Open demo-site first!");
+    }, 3000);
+  </script>
+</body>
+</html>
